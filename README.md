@@ -1,1 +1,1 @@
-# GithubTutorial
+# GithubTutorialWorkshop
